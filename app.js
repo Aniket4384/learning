@@ -5,3 +5,5 @@ const footer = "footer added"
 console.log("footer ")
 const payment = "payment integrated"
 console.log(payment);
+const upi = "upi integrated"
+console.log(upi)
